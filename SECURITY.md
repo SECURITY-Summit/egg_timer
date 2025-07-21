@@ -9,8 +9,7 @@ If a customer reaches out asking about vulnerabilities in our products/offerings
 
 If you receive a phishing email or accidentally clicked on a weird link or anything that you believe could be a potential incident affecting our company, please reach out to incident@intersystems.com.
 
-
+Note: The incidents don't need to be related to cybersecurity ones to be reported to this email. They could also be interruptions or privacy concerns.
 
 ## Important information
-Username = admin
-Password - ^SECURITY{Egg_on_your_face}
+Oops shouldn't have added this information here. Removing it now.
