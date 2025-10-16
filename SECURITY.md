@@ -11,5 +11,7 @@ If you receive a phishing email or accidentally clicked on a weird link or anyth
 
 Note: The incidents don't need to be related to cybersecurity ones to be reported to this email. They could also be interruptions or privacy concerns.
 
+NOTE: Did you notice these were questions on the Tutorial Challenges? :)
+
 ## Important information
 Oops shouldn't have added this information here. Removing it now.
